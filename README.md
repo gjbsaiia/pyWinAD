@@ -1,5 +1,5 @@
-# clo-pyWinAD
-python wrapper for [automated AD join API](https://githubprod.prci.com/progressive/clo-easyADjoin) for Windows VMs
+# pyWinAD
+python wrapper for [automated AD join API](https://github.com/gjbsaiia/easyADjoin) for Windows VMs
 
 ## WinADClient() class
 All methods for this lib run out of this class. The __init__ contructor takes three, optional, arguments:
